@@ -1,0 +1,4 @@
+mendil, 10, 1000
+pil, 29, 870
+kefir, 35, 101
+fırın ekmek, 15, 2003
