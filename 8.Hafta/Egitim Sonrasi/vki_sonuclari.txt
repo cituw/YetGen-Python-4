@@ -1,1 +1,2 @@
 brak, 24, 176.0, 60.0, 19.37, Normal kilolu
+dogu erk, 22, 188.0, 80.0, 22.63, Normal kilolu
